@@ -1,0 +1,15 @@
+/home/dell/RiderProjects/ApiCitraAdit/Application/bin/Debug/net6.0/Application.deps.json
+/home/dell/RiderProjects/ApiCitraAdit/Application/bin/Debug/net6.0/Application.dll
+/home/dell/RiderProjects/ApiCitraAdit/Application/bin/Debug/net6.0/Application.pdb
+/home/dell/RiderProjects/ApiCitraAdit/Application/bin/Debug/net6.0/Domain.dll
+/home/dell/RiderProjects/ApiCitraAdit/Application/bin/Debug/net6.0/Domain.pdb
+/home/dell/RiderProjects/ApiCitraAdit/Application/obj/Debug/net6.0/Application.csproj.AssemblyReference.cache
+/home/dell/RiderProjects/ApiCitraAdit/Application/obj/Debug/net6.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/dell/RiderProjects/ApiCitraAdit/Application/obj/Debug/net6.0/Application.AssemblyInfoInputs.cache
+/home/dell/RiderProjects/ApiCitraAdit/Application/obj/Debug/net6.0/Application.AssemblyInfo.cs
+/home/dell/RiderProjects/ApiCitraAdit/Application/obj/Debug/net6.0/Application.csproj.CoreCompileInputs.cache
+/home/dell/RiderProjects/ApiCitraAdit/Application/obj/Debug/net6.0/Application.csproj.CopyComplete
+/home/dell/RiderProjects/ApiCitraAdit/Application/obj/Debug/net6.0/Application.dll
+/home/dell/RiderProjects/ApiCitraAdit/Application/obj/Debug/net6.0/refint/Application.dll
+/home/dell/RiderProjects/ApiCitraAdit/Application/obj/Debug/net6.0/Application.pdb
+/home/dell/RiderProjects/ApiCitraAdit/Application/obj/Debug/net6.0/ref/Application.dll

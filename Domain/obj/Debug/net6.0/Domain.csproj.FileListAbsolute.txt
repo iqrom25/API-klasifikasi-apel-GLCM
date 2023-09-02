@@ -1,0 +1,12 @@
+/home/dell/RiderProjects/ApiCitraAdit/Domain/bin/Debug/net6.0/Domain.deps.json
+/home/dell/RiderProjects/ApiCitraAdit/Domain/bin/Debug/net6.0/Domain.dll
+/home/dell/RiderProjects/ApiCitraAdit/Domain/bin/Debug/net6.0/Domain.pdb
+/home/dell/RiderProjects/ApiCitraAdit/Domain/obj/Debug/net6.0/Domain.csproj.AssemblyReference.cache
+/home/dell/RiderProjects/ApiCitraAdit/Domain/obj/Debug/net6.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/dell/RiderProjects/ApiCitraAdit/Domain/obj/Debug/net6.0/Domain.AssemblyInfoInputs.cache
+/home/dell/RiderProjects/ApiCitraAdit/Domain/obj/Debug/net6.0/Domain.AssemblyInfo.cs
+/home/dell/RiderProjects/ApiCitraAdit/Domain/obj/Debug/net6.0/Domain.csproj.CoreCompileInputs.cache
+/home/dell/RiderProjects/ApiCitraAdit/Domain/obj/Debug/net6.0/Domain.dll
+/home/dell/RiderProjects/ApiCitraAdit/Domain/obj/Debug/net6.0/refint/Domain.dll
+/home/dell/RiderProjects/ApiCitraAdit/Domain/obj/Debug/net6.0/Domain.pdb
+/home/dell/RiderProjects/ApiCitraAdit/Domain/obj/Debug/net6.0/ref/Domain.dll
